@@ -9,5 +9,5 @@ Drop the plugin file in your clink app data directory (usually C:\Users\{user}\A
 # Plugins
 |Plugin            |Description  |
 |------------------|-------------|
-|bash&#8209;prompt.lua   | Modify your prompt to look more like bash! Shows as 'username@hostname:currentdir$ ', where current dir is the last dir of the path, thus avoiding having super long prompt. currentdir is also replaced by '~' when in home directory   |
-|git&#8209;prompt.lua    | Append the current git branch if the current folder is a git repo.   |
+|bash_prompt.lua   | Prompt filter which modify your prompt to look more like bash! Shows as 'username@hostname:currentdir$ ', where current dir is the last dir of the path, thus avoiding having super long prompt. currentdir is also replaced by '~' when in home directory   |
+|git_prompt.lua    | Prompt filter which append the current git branch if the current folder is a git repo.   |
