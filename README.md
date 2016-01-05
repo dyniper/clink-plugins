@@ -4,7 +4,7 @@ Collection of plugins for clink ( http://mridgers.github.io/clink/ )
 These are my plugins which I use in clink. Most were inspired by other people work, as I am not very fluent in Lua. Anyways, enjoy!
 
 # Usage
-Drop the plugin file in your clink app data directory (usually C:\Users\{user}\AppData\Local\clink)
+Drop the plugin file in your clink app data directory (usually C:\Users\\{user}\AppData\Local\clink)
 
 # Plugins
 |Plugin            |Description  |
